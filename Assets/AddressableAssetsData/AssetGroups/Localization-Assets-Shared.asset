@@ -15,19 +15,15 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_Data:
     m_SerializedData: []
-  m_GUID: 36f3d4c29372c45bc94ac071b548d087
+  m_GUID: 90884aa6aa5e74341ae04da16ce9afbf
   m_SerializeEntries:
   - m_GUID: 4b685a2129bdd4b99847d9871d566acc
-    m_Address: ReasonsUX Shared Data
-    m_ReadOnly: 0
+    m_Address: Assets/Common/Localization/ReasonsUX Shared Data.asset
+    m_ReadOnly: 1
     m_SerializedLabels: []
-    m_mainAssetType: UnityEngine.Localization.Tables.SharedTableData, Unity.Localization,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 1
-  m_Settings: {fileID: 11400000, guid: 78bdf713d65ad406e94552981323526a, type: 2}
+  m_Settings: {fileID: 11400000, guid: 79bd8380ce7894d00a914e030b6ed133, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 8ce9a0691fb104d94bab90fb171c0245, type: 2}
-    - {fileID: 11400000, guid: 1a2339086e60d4d0cbe8d39ffbce6dc0, type: 2}
+    - {fileID: 11400000, guid: 46165b587e5324399b7331a7b35a302f, type: 2}
+    - {fileID: 11400000, guid: 16d10d652a9984e3a9c176fe5a516063, type: 2}

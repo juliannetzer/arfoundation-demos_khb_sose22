@@ -15,119 +15,141 @@ MonoBehaviour:
   m_GroupName: Localization-Locales
   m_Data:
     m_SerializedData: []
-  m_GUID: 3675c9b69bc4c45a8afeb5f3bd831d05
+  m_GUID: 3f06cfc940cf543a8a33bdb859775a34
   m_SerializeEntries:
-  - m_GUID: 0021727a1489e416da9f6a1728ae07bb
-    m_Address: Italian (it)
+  - m_GUID: c5f6f4890b84d4a92976c1455be99808
+    m_Address: Telugu (India) (te-IN)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 0152fe5b982d14cc2b417aa7e1e998a5
-    m_Address: Chinese (Simplified) (zh)
+  - m_GUID: afdb38b35f96941b69d217a1560c66cc
+    m_Address: Chinese (Simplified) (zh) 1
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 05140a9bfe6cd6b41b69d86338a694f7
-    m_Address: Dutch (nl)
+  - m_GUID: 34433af0de9cf437b975cf6d0f50e09a
+    m_Address: English (en) 1
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  - m_GUID: a61ec14bdd7344f7ea9fca16acb295b9
+    m_Address: French (fr) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 21ab61e80a142433cb98cac909750469
+    m_Address: German (de) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: ca4ab9a15928849b9883587d7e16f8ff
+    m_Address: Hindi (hi) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 4c804c008ffeb418db7a77d8fc7dc3c2
+    m_Address: Italian (it) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 11ed6aa11c6f3439aa3180b3f308b79a
+    m_Address: Japanese (ja) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 7c4b85904dac4428dbf7b05bbd92f1e2
+    m_Address: Korean (ko) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 5cf6ad1d34a814b399004a556982b530
+    m_Address: Portuguese (pt) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 215606a2a7d2b4319b328f4c3bf42420
+    m_Address: Russian (ru) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 5c39314a835814827a85646d5f774558
+    m_Address: Spanish (es) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: fa6ea16f43bf5485188cac9bd5f5847b
+    m_Address: Tamil (India) (ta-IN) 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
   - m_GUID: 35f34f7ea21324817b9a388413d28b46
     m_Address: Hindi (hi)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 5e291ff242d584c94ad430c684411c13
-    m_Address: Russian (ru)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: 829d5d71975194bae9b003dbef841eec
     m_Address: French (fr)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 8e6865bdcea9e452aa8b8adec1e3cdf6
-    m_Address: Spanish (es)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: 931c12ccce2ec465297af25c27c49d17
-    m_Address: German (de)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: 9d9d6c0c31cc64ffda6370d49aa773d8
     m_Address: Korean (ko)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: aa93372a992104da3964320b572b50dc
     m_Address: Portuguese (pt)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  - m_GUID: cfb2765abe3dc4990b6edf527dbf01b1
+    m_Address: Tamil (India) (ta-IN)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 0152fe5b982d14cc2b417aa7e1e998a5
+    m_Address: Chinese (Simplified) (zh)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
   - m_GUID: b51b98c77c20146e0a686e8e8aa64665
     m_Address: Japanese (ja)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0021727a1489e416da9f6a1728ae07bb
+    m_Address: Italian (it)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 931c12ccce2ec465297af25c27c49d17
+    m_Address: German (de)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
   - m_GUID: e1982f6b92e3c4454803b83ed11fe5b4
     m_Address: English (en)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-    m_mainAssetType: UnityEngine.Localization.Locale, Unity.Localization, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5e291ff242d584c94ad430c684411c13
+    m_Address: Russian (ru)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 05140a9bfe6cd6b41b69d86338a694f7
+    m_Address: Dutch (nl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+  - m_GUID: 8e6865bdcea9e452aa8b8adec1e3cdf6
+    m_Address: Spanish (es)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
   m_ReadOnly: 1
-  m_Settings: {fileID: 11400000, guid: 78bdf713d65ad406e94552981323526a, type: 2}
+  m_Settings: {fileID: 11400000, guid: 79bd8380ce7894d00a914e030b6ed133, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0519495bcbfc14777a490d5edb37b948, type: 2}
-    - {fileID: 11400000, guid: 371fafa1958864034b5c683ec84a33cc, type: 2}
+    - {fileID: 11400000, guid: 7d2a5658ea6944c4f8b9423242272212, type: 2}
+    - {fileID: 11400000, guid: 3573a263637b147a88f6bda36ce26b94, type: 2}
