@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: AR_MultipleObjects
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5392034227325381902
+  m_GuidHigh: 5325304966614634920
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4736088723331272061
+      m_GuidHigh: 14405204788514353813
+    m_SerializedTextureGuid:
+      m_GuidLow: 13040791214048498426
+      m_GuidHigh: 15391562613391149416
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: marker1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4906270747434753317
+      m_GuidHigh: 16094790855307978904
+    m_SerializedTextureGuid:
+      m_GuidLow: 14140670678732555682
+      m_GuidHigh: 9592854962338165769
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: marker2
+    m_Texture: {fileID: 0}

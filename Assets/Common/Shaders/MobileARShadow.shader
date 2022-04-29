@@ -11,7 +11,8 @@ Shader "Custom/MobileARShadow"
             // see: http://docs.unity3d.com/Manual/SL-PassTags.html
             Tags { "LightMode" = "ForwardBase" "RenderType"="Opaque" "Queue"="Geometry+1" "ForceNoShadowCasting"="True"  }
 			LOD 150
-			Blend Zero SrcColor
+			//Blend Zero SrcColor
+			Blend DstColor Zero, Zero One
 			ZWrite On
         
             CGPROGRAM
@@ -58,7 +59,7 @@ Shader "Custom/MobileARShadow"
                 // 6.) The LIGHT_ATTENUATION samples the shadowmap (using the coordinates calculated by TRANSFER_VERTEX_TO_FRAGMENT
                 // and stored in the structure defined by LIGHTING_COORDS), and returns the value as a float.
                 float attenuation = LIGHT_ATTENUATION(i);
-                return fixed4(1.0,1.0,1.0,1.0) * attenuation;
+                return fixed4(1.0,1.0,1.0,1.0) * (attenuation);
             }
  
             ENDCG
