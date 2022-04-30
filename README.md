@@ -1,5 +1,29 @@
 # Unitypackage - Edge of Chaos SoSe 22 - khb 
 
+## Installation: 
+
+### Installation Unity Hub: 
+
+Installiert euch den Unity Hub: 
+https://unity3d.com/de/get-unity/download
+
+Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahlweise auch an deinem Androidgerät arbeiten wollt zusätzlich noch den Android Build Support:
+
+![Installation 1](/github_images/install1.jpg)
+![Installation 2](/github_images/install2.jpg)
+![Installation 3](/github_images/install3.jpg)
+
+
+
+### Installation XCode: 
+
+Wenn ihr einen Mac habt installiert zusätzlich XCode: 
+https://apps.apple.com/de/app/xcode/id497799835?mt=12
+
+Und erstellt euch einen Apple Developer Account: 
+https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1
+
+
 ## Regeln für das Arbeiten mit dem Repo: 
 
 Das Repo besteht aus zwei Hauptordnern: 
@@ -27,3 +51,6 @@ Platziert eine AR-Arbeit auf einer Fläche im Raum (wahlweise auf dem Boden oder
 
 Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an einem exakten Ort platziert werden soll, bzw. ein Objekt überlagern soll. Hier gibt es zwei Beispielszenen, einmal mit einem Image Marker, der zu einem Objekt gehört und eine Version mit mehreren Imagemarkern, die zu mehreren Objekten gehören. 
 
+### 03_Interaction: 
+
+Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an einem exakten Ort platziert werden soll, bzw. ein Objekt überlagern soll. Hier gibt es zwei Beispielszenen, einmal mit einem Image Marker, der zu einem Objekt gehört und eine Version mit mehreren Imagemarkern, die zu mehreren Objekten gehören. 

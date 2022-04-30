@@ -93,7 +93,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
             foreach (var trackedImage in eventArgs.added)
             {
 	            //Give the initial image a reasonable default scale
-	            var minLocalScalar = Mathf.Min(trackedImage.size.x, trackedImage.size.y) / 2;
+	            var minLocalScalar = Mathf.Min(trackedImage.size.x/trackedImage.referenceImage.size.x, trackedImage.size.y/trackedImage.referenceImage.size.y);
 	            trackedImage.transform.localScale = new Vector3(minLocalScalar, minLocalScalar, minLocalScalar);
 	            AssignPrefab(trackedImage);
             }
