@@ -51,6 +51,10 @@ Platziert eine AR-Arbeit auf einer Fläche im Raum (wahlweise auf dem Boden oder
 
 Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an einem exakten Ort platziert werden soll, bzw. ein Objekt überlagern soll. Hier gibt es zwei Beispielszenen, einmal mit einem Image Marker, der zu einem Objekt gehört und eine Version mit mehreren Imagemarkern, die zu mehreren Objekten gehören. 
 
-### 03_Interaction: 
+### 03_Animation: 
 
-Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an einem exakten Ort platziert werden soll, bzw. ein Objekt überlagern soll. Hier gibt es zwei Beispielszenen, einmal mit einem Image Marker, der zu einem Objekt gehört und eine Version mit mehreren Imagemarkern, die zu mehreren Objekten gehören. 
+Einfaches AR-Objekt mit einer Beispiel-Animation. 
+
+### 04_Interaction: 
+
+Einfaches AR_Objekt, das eine Animation abspielt, wenn darauf geklickt wird. 
