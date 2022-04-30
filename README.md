@@ -9,15 +9,15 @@ https://unity3d.com/de/get-unity/download
 
 Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahlweise auch an deinem Androidgerät arbeiten wollt zusätzlich noch den Android Build Support:
 
-![Installation 1](/github_images/install1.jpg)
-![Installation 2](/github_images/install2.jpg)
-![Installation 3](/github_images/install3.jpg)
+![Installation 1](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install1.jpg)
+![Installation 2](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install2.jpg)
+![Installation 3](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install3.jpg)
 
 
 
 ### Installation XCode: 
 
-Wenn ihr einen Mac habt installiert zusätzlich XCode: 
+Wenn ihr einen Mac habt, installiert zusätzlich XCode: 
 https://apps.apple.com/de/app/xcode/id497799835?mt=12
 
 Und erstellt euch einen Apple Developer Account: 
