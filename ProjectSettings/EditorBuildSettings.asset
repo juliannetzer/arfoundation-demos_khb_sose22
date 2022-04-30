@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/01_Demo_Scenes/03_Animation/03_Animation.unity
     guid: 41f7204975ec04dcdba760abfd46f904
   - enabled: 1
+    path: Assets/01_Demo_Scenes/04_Interaction/04_InteractionButton.unity
+    guid: eefb2abaa58714b8eabee48262d4ad59
+  - enabled: 1
     path: Assets/01_Demo_Scenes/02_ImageTracking/02_ImageTracking.unity
     guid: 455bb9645fe7a4e6aabdd26017164977
   - enabled: 1

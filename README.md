@@ -57,4 +57,4 @@ Einfaches AR-Objekt mit einer Beispiel-Animation.
 
 ### 04_Interaction: 
 
-Einfaches AR_Objekt, das eine Animation abspielt, wenn darauf geklickt wird. 
+Zwei Szenen mit Interaktion: einmal wird eine Animation beim Klick auf einen Button abgespielt, einmal beim direkten Klicken auf das Objekt. 
