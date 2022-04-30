@@ -5,7 +5,7 @@
 ### Installation Unity Hub: 
 
 Installiert euch den Unity Hub: 
-https://unity3d.com/de/get-unity/download
+[Unity Hub](https://unity3d.com/de/get-unity/download)
 
 Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahlweise auch an deinem Androidgerät arbeiten wollt zusätzlich noch den Android Build Support:
 
@@ -18,10 +18,10 @@ Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahl
 ### Installation XCode: 
 
 Wenn ihr einen Mac habt, installiert zusätzlich XCode: 
-https://apps.apple.com/de/app/xcode/id497799835?mt=12
+[Get XCode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
 
 Und erstellt euch einen Apple Developer Account: 
-https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1
+[Apple Developer Account](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1)
 
 
 ## Regeln für das Arbeiten mit dem Repo: 
