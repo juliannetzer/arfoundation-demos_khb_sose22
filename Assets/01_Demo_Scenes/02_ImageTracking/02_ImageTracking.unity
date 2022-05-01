@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028305, g: 0.22571313, b: 0.3069213, a: 1}
+  m_IndirectSpecularColor: {r: 0.18018606, g: 0.22559257, b: 0.30678663, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -360,6 +360,7 @@ GameObject:
   - component: {fileID: 767238865}
   - component: {fileID: 767238864}
   - component: {fileID: 767238863}
+  - component: {fileID: 767238866}
   m_Layer: 0
   m_Name: AR Session
   m_TagString: Untagged
@@ -408,6 +409,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &767238866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767238862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e007ffe2dade4be5a2bae1b2c1f9097, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &887575754
 GameObject:
   m_ObjectHideFlags: 0

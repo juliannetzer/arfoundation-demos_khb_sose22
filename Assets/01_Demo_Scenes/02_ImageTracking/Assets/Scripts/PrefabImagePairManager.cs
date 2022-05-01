@@ -73,9 +73,11 @@ namespace UnityEngine.XR.ARFoundation.Samples
             }
         }
 
-        void Awake()
+	    void Awake()
         {
-            m_TrackedImageManager = GetComponent<ARTrackedImageManager>();
+	        ARSession session = FindObjectOfType<ARSession>();
+	        session.Reset();
+	        m_TrackedImageManager = GetComponent<ARTrackedImageManager>();
         }
 
         void OnEnable()

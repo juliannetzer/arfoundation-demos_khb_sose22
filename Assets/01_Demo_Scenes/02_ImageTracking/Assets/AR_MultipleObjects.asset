@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: marker1
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 1f6552fa3284b4fa68c95c1da6d099d5, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4906270747434753317
       m_GuidHigh: 16094790855307978904
@@ -34,4 +34,4 @@ MonoBehaviour:
     m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: marker2
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: d3a2c5a2c10fc43d0974025cc3aa2085, type: 3}
