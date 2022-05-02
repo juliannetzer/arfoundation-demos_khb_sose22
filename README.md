@@ -34,7 +34,7 @@ Das Repo besteht aus zwei Hauptordnern:
 
 1. Bitte lasst den "01_Demo_Scenes" Ordner unangetastet. Ihr könnt natürlich gerne alle Scripte/Objekte verwenden oder verändern, aber bitte macht das im jeweiligen Ordner eurer Gruppe. Wenn ihr ein Script/Prefab etc. verändert, kopiert es bitte zuerst in euren jeweiligen Ordner. 
 
-2. Bitte achtet darauf, dass ALLE Objekte/Scripte/Szenen/Materialien etc., sich in eurem Gruppenordners befinden!
+2. Bitte achtet darauf, dass ALLE Objekte/Scripte/Szenen/Materialien etc., die ihr erstellt/verändert habt sich in Eurem Gruppenordner befinden!
 
 
 ## Demoszenen: 
