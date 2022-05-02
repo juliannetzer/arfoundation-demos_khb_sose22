@@ -4,7 +4,7 @@
 
 ### Installation Unity Hub: 
 
-Installiert euch den Unity Hub: 
+Installiert euch den Unity Hub (auf Euren Computern): 
 [Unity Hub](https://unity3d.com/de/get-unity/download)
 
 Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahlweise auch an deinem Androidgerät arbeiten wollt zusätzlich noch den Android Build Support:
@@ -15,7 +15,7 @@ Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahl
 
 
 
-### Installation XCode: 
+### Installation XCode (auf Euren Computern): 
 
 Wenn ihr einen Mac habt, installiert zusätzlich XCode: 
 [Get XCode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
