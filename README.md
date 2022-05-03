@@ -1,27 +1,12 @@
 # Unitypackage - Edge of Chaos SoSe 22 - khb 
 
-## Installation: 
+Inhaltsverzeichnis: 
+* Regeln für das Arbeiten mit dem Repo
+* [Installation](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/installation.md)
+* [Unity UI-Basics/ Shortcuts] (https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/Handouts/220501_UnityCheatsheet.pdf)
+* [Build/ App auf dem iPad installieren](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/build.md)
+* Demoszenen 
 
-### Installation Unity Hub: 
-
-Installiert euch den Unity Hub (auf Euren Computern): 
-[Unity Hub](https://unity3d.com/de/get-unity/download)
-
-Installiert Unity Version 2020.3.33f1 mit Build-Support für iOS, falls ihr wahlweise auch an deinem Androidgerät arbeiten wollt zusätzlich noch den Android Build Support:
-
-![Installation 1](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install1.jpg)
-![Installation 2](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install2.jpg)
-![Installation 3](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/install3.jpg)
-
-
-
-### Installation XCode (auf Euren Computern): 
-
-Wenn ihr einen Mac habt, installiert zusätzlich XCode: 
-[Get XCode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
-
-Und erstellt euch einen Apple Developer Account: 
-[Apple Developer Account](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1)
 
 
 ## Regeln für das Arbeiten mit dem Repo: 
@@ -35,6 +20,7 @@ Das Repo besteht aus zwei Hauptordnern:
 1. Bitte lasst den "01_Demo_Scenes" Ordner unangetastet. Ihr könnt natürlich gerne alle Scripte/Objekte verwenden oder verändern, aber bitte macht das im jeweiligen Ordner eurer Gruppe. Wenn ihr ein Script/Prefab etc. verändert, kopiert es bitte zuerst in euren jeweiligen Ordner. 
 
 2. Bitte achtet darauf, dass ALLE Objekte/Scripte/Szenen/Materialien etc., die ihr erstellt/verändert habt sich in Eurem Gruppenordner befinden!
+
 
 
 ## Demoszenen: 
