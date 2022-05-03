@@ -43,3 +43,7 @@ Evtl. müsst ihr im Anschluss nochmal auf "Try again" klicken
 
 #### Klickt auf den Play-Button links oben 
 ![Build 1](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/images_github/build_9.png)
+
+### Nach dem ersten Mal installieren: Einstellungen auf dem iPad/iPhone
+
+Gehe in die Einstellungen -> Allgemein -> VPN & Geräteverwaltung -> Entwickler-App -> Entwickler vertrauen
