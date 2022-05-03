@@ -3,7 +3,7 @@
 Inhaltsverzeichnis: 
 * Regeln für das Arbeiten mit dem Repo
 * [Installation](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/installation.md)
-* [Unity UI-Basics/ Shortcuts] (https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/Handouts/220501_UnityCheatsheet.pdf)
+* [Unity UI-Basics/ Shortcuts](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/Handouts/220501_UnityCheatsheet.pdf)
 * [Build/ App auf dem iPad installieren](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/build.md)
 * Demoszenen 
 
