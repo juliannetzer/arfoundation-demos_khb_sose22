@@ -26,27 +26,3 @@ Das Repo besteht aus zwei Hauptordnern:
 1. Bitte lasst den "01_Demo_Scenes" Ordner unangetastet. Ihr könnt natürlich gerne alle Scripte/Objekte verwenden oder verändern, aber bitte macht das im jeweiligen Ordner eurer Gruppe. Wenn ihr ein Script/Prefab etc. verändert, kopiert es bitte zuerst in euren jeweiligen Ordner. 
 
 2. Bitte achtet darauf, dass ALLE Objekte/Scripte/Szenen/Materialien etc., die ihr erstellt/verändert habt sich in Eurem Gruppenordner befinden!
-
-
-
-## Demoszenen: 
-
-### 00_FreePlacement: 
-
-Einfachste Art eine AR-Arbeit im Raum zu platzieren, die Arbeit erscheint beim Öffnen der App relativ zu eurer Startpostition im Raum. Geeignet, wenn eure Arbeit keine exakte Platzierung im Raum braucht. 
-
-### 01_PlanePlacement:
-
-Platziert eine AR-Arbeit auf einer Fläche im Raum (wahlweise auf dem Boden oder an der Wand). Der Benutzer kann nach der Initialisierung selbst die Position der Arbeit bestimmen. 
-
-### 02_ImageTracking: 
-
-Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an einem exakten Ort platziert werden soll, bzw. ein Objekt überlagern soll. Hier gibt es zwei Beispielszenen, einmal mit einem Image Marker, der zu einem Objekt gehört und eine Version mit mehreren Imagemarkern, die zu mehreren Objekten gehören. 
-
-### 03_Animation: 
-
-Einfaches AR-Objekt mit einer Beispiel-Animation. 
-
-### 04_Interaction: 
-
-Zwei Szenen mit Interaktion: einmal wird eine Animation beim Klick auf einen Button abgespielt, einmal beim direkten Klicken auf das Objekt. 
