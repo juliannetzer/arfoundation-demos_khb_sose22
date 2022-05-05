@@ -6,7 +6,12 @@ Inhaltsverzeichnis:
 	* [Installation](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/installation.md)
 	* [Unity UI-Basics/ Shortcuts](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/Handouts/220501_UnityCheatsheet.pdf)
 	* [Build/ App auf dem iPad installieren](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/build.md)
-* Demoszenen 
+* Workshop 11.05. 
+	* [Aufbau der Demo-Szenen](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/demoscenes.md)
+	* [Materialien](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/materialien.md)
+	* [Licht & Schatten](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/LichtSchatten.md)
+	* [Animation & Interaktion]((https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/AnimationInteraktion.md))
+
 
 
 

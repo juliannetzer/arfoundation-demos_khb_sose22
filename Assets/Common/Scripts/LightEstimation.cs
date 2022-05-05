@@ -96,7 +96,8 @@ public class LightEstimation : MonoBehaviour
         if (args.lightEstimation.averageBrightness.HasValue)
         {
             brightness = args.lightEstimation.averageBrightness.Value;
-            m_Light.intensity = brightness.Value * m_BrightnessMod;
+	        m_Light.intensity = brightness.Value * m_BrightnessMod;
+
         }
 
         if (args.lightEstimation.averageColorTemperature.HasValue)
@@ -114,7 +115,7 @@ public class LightEstimation : MonoBehaviour
         if (args.lightEstimation.mainLightDirection.HasValue)
         {
             mainLightDirection = args.lightEstimation.mainLightDirection;
-            m_Light.transform.rotation = Quaternion.LookRotation(mainLightDirection.Value);
+	        m_Light.transform.rotation = Quaternion.LookRotation(mainLightDirection.Value);
         }
 
         if (args.lightEstimation.mainLightColor.HasValue)
