@@ -21,6 +21,10 @@ Platziert eine AR-Arbeit auf einem Image Marker. Geeignet wenn eure Arbeit an ei
 #### Mehrere Marker & Objekte: 
 [Video-Tutorial auf PeerTube](https://tube.kh-berlin.de/videos/watch/a9c3cbea-8f18-4f45-902e-913bce2d567d)
 
+Weitere Tutorials: 
+* [Was zeichnet einen guten Image-Marker aus?](https://library.vuforia.com/features/images/image-targets/best-practices-for-designing-and-developing-image-based-targets.html)
+
+
 ### 03_Animation & 04_Interaction
 
 Zwei Szenen mit Interaktion: einmal wird eine Animation beim Klick auf einen Button abgespielt, einmal beim direkten Klicken auf das Objekt. 
