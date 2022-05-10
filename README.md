@@ -1,4 +1,4 @@
-# Unitypackage - Edge of Chaos SoSe 22 - khb 
+# Unity AR Workshop - Edge of Chaos SoSe 22 - khb 
 
 Inhaltsverzeichnis: 
 * Regeln für das Arbeiten mit dem Repo
