@@ -10,7 +10,7 @@ Inhaltsverzeichnis:
 	* [Aufbau der Demo-Szenen](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/demoscenes.md)
 	* [Materialien](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/materialien.md)
 	* [Licht & Schatten](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/LichtSchatten.md)
-	* [Animation & Interaktion]((https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/AnimationInteraktion.md))
+	* [Animation & Interaktion](https://github.com/juliannetzer/arfoundation-demos_khb_sose22/blob/master/AnimationInteraktion.md)
 
 
 
