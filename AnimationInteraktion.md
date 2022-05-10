@@ -7,11 +7,15 @@ Zeigt euch die Grundlagen von Animation und Interaktion in Unity.
 [Video-Tutorial auf PeerTube](https://tube.kh-berlin.de/videos/watch/ea9a3cf6-0bb6-404d-bf82-ed84cd883a20)
 
 ### Weiterführende Links
+
+#### Animationen:
 * Unity Manual Animationen: https://docs.unity3d.com/Manual/AnimationSection.html 
-* UI in Unity erstellen: 
-	* https://www.youtube.com/watch?v=FeheZqu85WI
-	* https://www.youtube.com/watch?v=OD-p1eMsyrU
-	* https://medium.com/@marianomike/prototyping-ui-in-unity-part-3-introduction-to-ui-components-74cc40432bcb
+* Unity Tutorial Animationen: https://www.youtube.com/watch?v=JeZkctmoBPw&list=PLX2vGYjWbI0S-LEFR59E2B347w2HbjiJv&index=2 (etwas alt, aber vieles ist noch aktuell)
+
+#### UI
+* https://www.youtube.com/watch?v=FeheZqu85WI
+* https://www.youtube.com/watch?v=OD-p1eMsyrU
+* https://medium.com/@marianomike/prototyping-ui-in-unity-part-3-introduction-to-ui-components-74cc40432bcb
 
 ## Animation mit Klick auf Objekt starten 
 
