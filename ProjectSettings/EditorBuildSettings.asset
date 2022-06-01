@@ -6,29 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Demo_Scenes/_Menu/Menu.unity
-    guid: 5cbf9cc94efe0440292a310c70e26c87
+    path: Assets/02_ProjectFiles/DemoSceneFragen/DemoSceneClickToJump.unity
+    guid: 801a012921194439daa13fe9457258fb
   - enabled: 1
-    path: Assets/01_Demo_Scenes/00_FreePlacement/00_FreePlacement.unity
-    guid: 64983972f5ba14a05b6b9cc009dac1a9
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/01_PlanePlacement/01_PlanePlacement.unity
-    guid: 993482f8157f8463ba81573cea366a5a
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/02_ImageTracking/02_ImageTracking.unity
-    guid: 455bb9645fe7a4e6aabdd26017164977
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/02_ImageTracking/02_ImageTracking_MultipleObjects.unity
-    guid: 8ec32b31900554b4c89aa22484d2b08d
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/03_Animation/03_Animation.unity
-    guid: 41f7204975ec04dcdba760abfd46f904
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/04_Interaction/04_Interaction.unity
-    guid: f5e318e4ff4a84da3ba74e4982ac50b8
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/04_Interaction/04_InteractionButton.unity
-    guid: eefb2abaa58714b8eabee48262d4ad59
+    path: Assets/02_ProjectFiles/DemoSceneFragen/TargetScene.unity
+    guid: d2d9047161dde4dd49de1f385bab7fbe
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad4d7f226aa3a534b8fb28f89c84e258,
       type: 2}
