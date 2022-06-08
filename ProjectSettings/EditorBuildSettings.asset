@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Demo_Scenes/05_JumpFromImageTrackingToPlanePlacement/05_JumpFromImageTrackingToPlanePlacement.unity
-    guid: 8ec32b31900554b4c89aa22484d2b08d
-  - enabled: 1
-    path: Assets/01_Demo_Scenes/05_JumpFromImageTrackingToPlanePlacement/05_TargetScene.unity
-    guid: c974f029077ad48e3b963f179a6346b9
+    path: Assets/01_Demo_Scenes/04_Interaction/04_Interaction_PlanePlacement.unity
+    guid: 4c1a37836dbe0406693c28948a4c02f7
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad4d7f226aa3a534b8fb28f89c84e258,
       type: 2}

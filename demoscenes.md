@@ -30,3 +30,9 @@ Weitere Tutorials:
 Zwei Szenen mit Interaktion: einmal wird eine Animation beim Klick auf einen Button abgespielt, einmal beim direkten Klicken auf das Objekt. 
 
 siehe Aufbau 00_FreePlacement und Animations & Interaktions-Tutorials
+
+### 05_JumpFromImageTrackingToPlanePlacement
+
+Besteht aus zwei Szenen zwischen denen mit Klick auf die Objekte, bzw. Buttons gewechselt werden kann. Eine Image Tracker Szene: hier erscheint ein Objekt auf dem Image Tracker, beim Klick auf das Objekt kommt man in die Plane Placement Szene. Wird hier auf das Objekt geklickt, springt man wieder zurück. 
+
+[Video-Tutorial auf PeerTube](https://tube.kh-berlin.de/videos/watch/4882c2eb-28fd-4079-970e-169f3b85fceb)
